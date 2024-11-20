@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm T.Gopi</h1>
+<h1 align="center" color="pink">Hi 👋, I'm T.Gopi</h1>
 <h3 align="center">A React Native Dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopiexplore&label=Profile%20views&color=0e75b6&style=flat" alt="gopiexplore" /> </p>
