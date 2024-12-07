@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T.Gopi</h1>
-<h3 align="center"style="color: red;">Full Stack || React Native Developer</h3>
+<h3 align="center" style="color: red;">Full Stack || React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopiexplore&label=Profile%20views&color=0e75b6&style=flat" alt="gopiexplore" /> </p>
 
