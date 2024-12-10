@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopiexplore&show_icons=true&locale=en" alt="gopiexplore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiexplore&" alt="gopiexplore" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiexplore&" alt="gopiexplore" /></p>
 
