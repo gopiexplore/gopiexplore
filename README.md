@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T.Gopi</h1>
-<h3 align="center">React Native Developer ||Open To Work ||Immediate Joiner</h3>
+<h3 align="center">React Native Developer ||Full Stack Mern </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopiexplore&label=Profile%20views&color=0e75b6&style=flat" alt="gopiexplore" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React Native/MERN**
 
-- 👨‍💻 All of my projects are available at [https://gopiexplore.github.io/MyPortfolio/](https://gopiexplore.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://gopireactnativedeveloper.netlify.app/)
 
 - 💬 Ask me about **react native/MERN**
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopiexplore&show_icons=true&locale=en" alt="gopiexplore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiexplore&" alt="gopiexplore" /></p>
